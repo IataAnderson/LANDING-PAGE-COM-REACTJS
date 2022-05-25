@@ -88,5 +88,7 @@
   .items-form input[type=text]{
     width: 100%;
   }
-  
+  .conteudo-single{
+    width: 100%;
+  }
 }
